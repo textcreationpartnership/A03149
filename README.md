@@ -36,298 +36,472 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
+1. TO THE MOST EXCELLENT PRINCE, CHARLES, Prince of Wales, Duke of Cornwall and Yorke, Earle of Chester, &c.
+
+1. TO THE READER.
+
+1. TO MY BROTHER the Author.
+
+1. A TABLE OF THE PRINCIpall Countries, Prouinces, Nations, and Seas in this booke contained and described.
+AANdaluzia45.Arragon68Aniou91Auergne105Alpes134Abruzzo156Artoys237Alsa•ia269Anspach274Austria288AvarBBiscaie53Brittaine in Fr.93Berry104Burbon104Beavoys106Burgundie D.119Burgundie C.122Belgia226BrabanCCorduba45Castile58Catelogne67Cimbri115 & 322Champagne115Calabria Inf.157Calabria sup.158Collen B265DDaulphine108Danemarke320Dacia362Dalmatia369Doris405Delos430Drusians554Decapolis567Drangiana641EEurope27Estremadura49East Freizland264Exarchate167Elis377Epitus405Euxine Sea.423Euboea428Echinades4FFrance76France Isle98Friuli204Florence D.206Flanders235Franconia270Finmarch•a325Finland329FreizlandGGallicia52Granada48Gascoyne87Guyen87Gallia Comata.212
+Braccata111Genoa S.221Gelderland232Groyning24HHistria205Hainalt237Holand239Helvetia277Heruli306Hassia316Hol•le320Hungarie354H••nes359Hellespont42IItalie135Iuliers D.267Illyris369Ionian Sea435Ithaca459Ireland514Iarsey525Ireland527Ionia536Idumaea5LLeon39Limosin106Languedock110Lorreine126Lombards 149.358Liguria222Luc• S225Limbourg229L•ige B2•8LuxMMurcia57Marca Anconitana168Marca Trevisana.202Millaine D212Mantua D2•6Mon•ferrat D216Marquisate of NNavarre41Normandie95Naples153Namurce238Norwey324Narsinga678Numidia723Nubia729Noua Gallicia785Noua AOOveryssell24•The Ocean457Orcades523Ormus698PPortugall62Pyrenaei75Poictou90Provence112Picardie115Peidmont131Puglia160Papacie165Pete•s Patrimony1QQuilao740Quiui•a788RRomandiola165Rome172Rascia367Rhodes704Red Sea753SSpaine29Savoy128Spoletano169Suevia283Stiria291Silesia301Saxonie307Scandia321Seruia366Sclauonia368SaTTolledo55Terra di Lauoro154Terra di Otranto159Tuscanie206Triers B.266Tirolis292Turingia307TransilvaVValentia65Venice198Vrbine218Vtrecht241Valesia282Voiteland308Vandals708Virginia792WWest Freizland.242Westphalia264Wittenberge274Walachia366Wales492Wight526Willoughbies lād.528XXeriffe721ZZutphen239Zealand241Zante439Zagathai•665Zeilan695Zanzibar740Zocatora769
+1. A TABLE OF THE PRINcipall things herein contained, which fall not directly within the compasse of History and Geographie:
+AARmes, when first quartered. 41. why in the same Esch•cheon those of England giue place to France,4BBishops in Biscay, how hated, and other customes thereof.55Beauforte, why the name of Iohn of GauntCCities, and the causes of their greatnesse,10Colonies Roman, how many. 111. why planted, ib. whetheDDido neuer saw Aeneas, 137, why sh•
+flew her selfe.ib.Dayes obserued as vnluckie and vnfortunate toEEnemies to be licenced flight. 90. how to be dealt with when they are in our power.156E•arch what hF•light to be permitted an enemy; & denied a souldier.90Free cities, what they are. 257. how many, aGGentleman of Venice, what honour it is.199Gunnes, when invented and perfected. 255. not vsed in ChiHH, a letter ominous to England.421Harlets, whence the name97Hugonuts, why so called.92Holy oyle of IIlands, their causes▪ 2. whether better seated then the Continent3Inquisition, when and why ordaineKKings, which anointed. 42. how they take precedencie. 490. Kings of Collen, the fable of them.265KiLLipsius censure of Caesars Commentaries, condemned.17Lady of Loretto, her legend.564Letters, the orMMassacres of Merindol and Paris.79Mayres of the palace in France, and their authority.101Monkes andNNunnes, why so called. 196. by whom instituted. 197. their particular orders. ib. and chastity. ibNOOrders of Knighthood▪ of Alcantara. 61 of the Annu•i•da. 133. of S. Andrew. 513. of the Bloud of ouPP•aetorian guard, by whom instituted 146. their power ib. & 625. by whō cassed146Peterpence by whoRRivers, and their vse.13Roy d'Ividot, a French prouerbe: the cause and meaning of it,96Rome, her ciSSalique law, what it truely is. 81, how ancient. 82. how iust, ib. how convenient.83Seminaries for TTriumphs, their originall, 139. & maiestie, 140. how they differed from an Ovation, ib. vpon what cVVidames in France, how many.100Vaudoys, their life, and religion.109Virgils fable of Dido disprooueWWallons, what they are, and why so called.123Writing and the originall formes of it.748XXeriffo, what Prince he is,721
+1. A COMPVTATION OF THE FORraine coynes herein mentioned, with the English.
+
 #####Body#####
 
-1. First of the Iewes
+1. THE GENERALL PRAECOGNITA OF GEOGRAPHIE.
 
-1. 2. Of the Christians.
+    _ TERRA.
 
-1. 3. Of the Heathens.
+    _ VIROS.
 
-1. Of Greece.
+    _ VRBES.
 
-1. Of Rome and Italy.
+    _ FRVGES.
 
-1. Of Germany and her neighbours.
+    _ FERAS.
 
-1. Of France.
+    _ FLVMINA.
 
-1. Of Spaine,
+    _ COELVM.
 
-1. Of the Turkes and Saracens.
+1. THE GENERALL PRAECOGNitA OF HISTORY.
 
-1. Of the Muscovites and Tartars.
+    _ THE BEST WRITERS OF GENERALL HISTORIE.
 
-1. Of Africa and America.
+    _ THE BEST WRITERS OF ECCLESIASTICALL HISTORIE.
 
-1. Of the Brittish Iles.
+      * First of the Iewes
 
-1. LEON and OVIEDO.
+      * 2. Of the Christians.
 
-1. 2. NAVARRE.
+      * 3. Of the Heathens.
 
-1. 3. CORDVBA.
+    _ THE BEST WRITERS OF CIVILL HISTORY.
 
-1. 4. GALLICIA.
+      * Of Greece.
 
-1. 5. BISCAIE.
+      * Of Rome and Italy.
 
-1. 6. TOLLEDO.
+      * Of Germany and her neighbours.
 
-1. 7. MVRCIA.
+      * Of France.
 
-1. 8. CASTILE.
+      * Of Spaine,
 
-1. 9. PORTVGALL.
+      * Of the Turkes and Saracens.
 
-1. 10 VALENTIA.
+      * Of the Muscovites and Tartars.
 
-1. 11. CATELOGNE.
+      * Of Africa and America.
 
-1. 12. ARRAGON.
+      * Of the Brittish Iles.
 
-1. THE MONARCHIE OF SPAINE.
+1. OF THE VVORLD: AND FIRST OF EVROPE.
 
-1. 1. GASCOYNE and GVIEN.
+    _ OF SPAINE.
 
-1. 2. POICTOV.
+      * LEON and OVIEDO.
 
-1. 3. ANIOV.
+      * 2. NAVARRE.
 
-1. 4. BRITTAINE.
+      * 3. CORDVBA.
 
-1. 5. NORMANDIE.
+      * 4. GALLICIA.
 
-1. 9. THE ISLE OF FRANCE.
+      * 5. BISCAIE.
 
-1. 7. BERRY and BVRBON.
+      * 6. TOLLEDO.
 
-1. 8. LIMOSIN.
+      * 7. MVRCIA.
 
-1. 9. DAVLPHINE.
+      * 8. CASTILE.
 
-1. 10. LANGVEDOC.
+      * 9. PORTVGALL.
 
-1. 11. PROVENCE.
+      * 10 VALENTIA.
 
-1. 12. PICARDIE and CHAMPAGNE.
+      * 11. CATELOGNE.
 
-1. 13. THE DVTCHIE OF BVRGVNDIE.
+      * 12. ARRAGON.
 
-1. 14. COVNTIE OF BVRGVNDIE.
+      * THE MONARCHIE OF SPAINE.
 
-1. 15. LORREINE.
+    _ THE PYRENEAN HILLS.
 
-1. 16. SAVOY.
+    _ OF FRANCE.
 
-1. Of Italy as it now is.
+      * 1. GASCOYNE and GVIEN.
 
-1. THE KINGDOME OF NAPLES.
+      * 2. POICTOV.
 
-1. 2 The PAPACIE.
+      * 3. ANIOV.
 
-1. THE COMMON-WEALTH OF VENICE.
+      * 4. BRITTAINE.
 
-1. THE DVKEDOME OF FLORENCE.
+      * 5. NORMANDIE.
 
-1. THE DVKEDOME OF MILLAINE.
+      * 9. THE ISLE OF FRANCE.
 
-1. THE DVKEDOME OF MANTVA.
+      * 7. BERRY and BVRBON.
 
-1. THE DVKEDOME OF VRBIN.
+      * 8. LIMOSIN.
 
-1. THE PRINCIPATE OF PARMA AND PLACENTIA.
+      * 9. DAVLPHINE.
 
-1. THE STATE OF GENOA.
+      * 10. LANGVEDOC.
 
-1. THE STATE OF LVCA.
+      * 11. PROVENCE.
 
-1. 1. LIMBOVRG.
+      * 12. PICARDIE and CHAMPAGNE.
 
-1. Earn.2. LVXENBOVRG.
+      * 13. THE DVTCHIE OF BVRGVNDIE.
 
-1. 3. GELDERLAND.
+      * 14. COVNTIE OF BVRGVNDIE.
 
-1. 4. BRABANT.
+      * 15. LORREINE.
 
-1. 5. THE MARQVISATE.
+      * 16. SAVOY.
 
-1. 6. FLANDERS.
+    _ THE ALPES.
 
-1. 7. ARTOYS.
+    _ OF ITALY.
 
-1. 8. HAINALT.
+      * Of Italy as it now is.
 
-1. 9. NAMVRCE
+      * THE KINGDOME OF NAPLES.
 
-1. 10. ZVTPHEN.
+The chief Prouinces are
 
-1. 11 HOLLAND.
+      * 2 The PAPACIE.
 
-1. 12. ZELAND.
+The Prouinces hereof are
 
-1. 13 WEST-FREIZLAND.
+The beginning and increase of a Monasticall life.
 
-1. 14 VTRECHT. 15 OVERYSSELL.
+      * THE COMMON-WEALTH OF VENICE.
 
-1. 16 MACHLYN.
+Thus much of the Citty; the chiefe Provinces are,
 
-1. 17 GROYNING.
+      * THE DVKEDOME OF FLORENCE.
 
-1. 1 EAST-FREIZLAND.
+      * THE DVKEDOME OF MILLAINE.
 
-1. 2 WESTPHALIA.
+      * THE DVKEDOME OF MANTVA.
 
-1. 3 CLEVELAND.
+      * THE DVKEDOME OF VRBIN.
 
-1. 4. ALSATIA.
+      * THE PRINCIPATE OF PARMA AND PLACENTIA.
 
-1. 5. FRANCONIA.
+      * THE STATE OF GENOA.
 
-1. 5 HELVETIA.
+      * THE STATE OF LVCA.
 
-1. 6. SVEVIA.
+    _ OF BELGIA.
 
-1. 7 BAVARIA.
+      * 1. LIMBOVRG.
 
-1. 8 AVSTRIA.
+      * Earn.2. LVXENBOVRG.
 
-1. 9 BOHEMIA.
+      * 3. GELDERLAND.
 
-1. 10 BRANDENBOVRG.
+      * 4. BRABANT.
 
-1. 11 POMERANIA and MECLENBVRG.
+      * 5. THE MARQVISATE.
 
-1. 12 SAXONIE.
+      * 6. FLANDERS.
 
-1. 13 BRVNSWICK and LVNEBOVRG.
+      * 7. ARTOYS.
 
-1. 14. HASSIA.
+      * 8. HAINALT.
 
-1. The chief Prouinces are,
+      * 9. NAMVRCE
 
-1. The chief Prouinces are
+      * 10. ZVTPHEN.
 
-1. The chiefe orders of knighthood are,
+      * 11 HOLLAND.
 
-1. 1 TRANSILVANIA.Quade.
+      * 12. ZELAND.
 
-1. 2 MOLDAVIA.
+      * 13 WEST-FREIZLAND.
 
-1. 3 WALACHIA.
+      * 14 VTRECHT. 15 OVERYSSELL.
 
-1. 4 SERVIA.
+      * 16 MACHLYN.
 
-1. 5 RASCIA.
+      * 17 GROYNING.
 
-1. 6 BVLGARIA.
+    _ OF GERMANIE.
 
-1. 7 BOSNIA.
+      * 1 EAST-FREIZLAND.
 
-1. 1 PELOPONNESVS.
+      * 2 WESTPHALIA.
 
-1. 2 ACHAIA.
+      * 3 CLEVELAND.
 
-1. 3 EPIRVS.
+      * 4. ALSATIA.
 
-1. 4 ALBANIA.
+      * 5. FRANCONIA.
 
-1. 5 MACEDONIA.
+      * 5 HELVETIA.
 
-1. 6 MIGDONIA.
+      * 6. SVEVIA.
 
-1. 7 THRACE.
+      * 7 BAVARIA.
 
-1. 1 SAMOTHRACIA.
+      * 8 AVSTRIA.
 
-1. 2 LEMNOS.
+      * 9 BOHEMIA.
 
-1. 3 LESBOS.
+      * 10 BRANDENBOVRG.
 
-1. 4 CHIOS.
+      * 11 POMERANIA and MECLENBVRG.
 
-1. 5 EVBOEA.
+      * 12 SAXONIE.
 
-1. 6 SCYROS.
+      * 13 BRVNSWICK and LVNEBOVRG.
 
-1. 7 SALAMIS.
+      * 14. HASSIA.
 
-1. 8 SPORADES.
+    _ OF DENMARKE.
 
-1. 9 The CYCLADES.
+    _ OF NORWAY.
 
-1. 1 CYTHERA.
+    _ OF SWETHLAND.
 
-1. 2 THE STROPHADES.
+      * The chief Prouinces are,
 
-1. 3 ZACINTHVS.
+    _ OF MVSCOVIE.
 
-1. 4 THE ECHINADES.
+    _ OF POLAND.
 
-1. 5 CEPHALENIA.
+      * The chief Prouinces are
 
-1. 6 CORCYRA.
+      * The chiefe orders of knighthood are,
 
-1. 7 ITHACA.
+    _ OF HVNGARIE.
 
-1. 8 LEVCADIA.
+    _ OF DACIA.
 
-1. 1 SICILIA.
+      * 1 TRANSILVANIA.Quade.
 
-1. 2 MALTA.
+      * 2 MOLDAVIA.
 
-1. 3 CORSICA.
+      * 3 WALACHIA.
 
-1. SARDINIA.
+      * 4 SERVIA.
 
-1. THE BALEARES.
+      * 5 RASCIA.
 
-1. BRITTAINE.
+      * 6 BVLGARIA.
 
-1. IRELAND.
+      * 7 BOSNIA.
 
-1. THE LESSER ILANDS.
+    _ OF SCLAVONIA.
 
-1. 1. CILICIA.
+    _ OF GREECE.
 
-1. 2 PAMPHILIA.
+      * 1 PELOPONNESVS.
 
-1. 3 LYCIA.
+      * 2 ACHAIA.
 
-1. 4 CARIA.
+      * 3 EPIRVS.
 
-1. 5 IONIA.
+      * 4 ALBANIA.
 
-1. 6 LYDIA.
+      * 5 MACEDONIA.
 
-1. 7 AEOLIS and MYSIA.
+      * 6 MIGDONIA.
 
-1. 8 PHRYGIA MINOR.
+      * 7 THRACE.
 
-1. 9 PHRYGIA MAIOR.
+    _ THE GRECIAN ILES.
 
-1. 10 BYTHINIA.
+      * 1 SAMOTHRACIA.
 
-1. II PONTVS.
+      * 2 LEMNOS.
 
-1. 12 PAPHLAGONIA.
+      * 3 LESBOS.
 
-1. 13 GALLATIA.
+      * 4 CHIOS.
 
-1. 14 CAPPADOCIA.
+      * 5 EVBOEA.
 
-1. 15 LYCAONIA.
+      * 6 SCYROS.
 
-1. 16 PISIDIA. 17 ARMENIA.
+      * 7 SALAMIS.
 
-1. The Zelzuccian Family in Palestine.
+      * 8 SPORADES.
 
-1. The Oguzian Family, or line of Ottoman.
+      * 9 The CYCLADES.
 
-1. The inter-regnum of the Magi.
+    _ CRETA.
+
+    _ THE IONIAN ILES.
+
+      * 1 CYTHERA.
+
+      * 2 THE STROPHADES.
+
+      * 3 ZACINTHVS.
+
+      * 4 THE ECHINADES.
+
+      * 5 CEPHALENIA.
+
+      * 6 CORCYRA.
+
+      * 7 ITHACA.
+
+      * 8 LEVCADIA.
+
+    _ THE ADRIATIQVE ILES.
+
+    _ THE MEDITERRANEAN ILES.
+
+      * 1 SICILIA.
+
+      * 2 MALTA.
+
+      * 3 CORSICA.
+
+      * SARDINIA.
+
+      * THE BALEARES.
+
+    _ THE MEDITERRANEAN ILES. THE LESSER ILANDS.
+
+    _ THE ILES OF THE OCEAN.
+
+    _ THE BRITTISH ILANDS.
+
+      * BRITTAINE.
+
+ENGLAND.
+
+WALES.
+
+THE BORDERS.
+
+SCOTLAND.
+
+      * IRELAND.
+
+      * THE LESSER ILANDS.
+
+THE ORCADES.
+
+THE HEBRIDES.
+
+THE SORLINGES.
+
+THE SPORADES.
+
+    _ OF THE NORTHERNE ILANDS.
+
+1. OF ASIA:
+
+    _ ANATOLIA.
+
+      * 1. CILICIA.
+
+      * 2 PAMPHILIA.
+
+      * 3 LYCIA.
+
+      * 4 CARIA.
+
+      * 5 IONIA.
+
+      * 6 LYDIA.
+
+      * 7 AEOLIS and MYSIA.
+
+      * 8 PHRYGIA MINOR.
+
+      * 9 PHRYGIA MAIOR.
+
+      * 10 BYTHINIA.
+
+      * II PONTVS.
+
+      * 12 PAPHLAGONIA.
+
+      * 13 GALLATIA.
+
+      * 14 CAPPADOCIA.
+
+      * 15 LYCAONIA.
+
+      * 16 PISIDIA. 17 ARMENIA.
+
+    _ OF SYRIA.
+PALESTINE hath on the East Euphrates, on the West the Mediterranean sea: on the North it is bounded 
+    _ OF ARMENIA.
+
+      * The Zelzuccian Family in Palestine.
+
+      * The Oguzian Family, or line of Ottoman.
+
+    _ OF ARABIA.
+
+    _ OF ASSYRIA, MESOPOTAMIA, AND CHALDEA,
+
+    _ OF MEDIA AND PERSIA.
+
+      * The inter-regnum of the Magi.
+
+    _ OF PARTHIA.
+
+    _ OF TARTARIA.
+
+    _ OF INDIA.
+
+    _ INDIA INTRA GANGEM.
+
+    _ INDIA EXTRA GANGEM.
+
+    _ OF CHINA.
+
+    _ THE ORIENTALL ILANDS.
+
+    _ OF CYPRVS.
+
+    _ OF RHODES.
+
+1. OF AFRICA.
+
+    _ OF BARBARIE.
+
+    _ NVMIDIA AND LYBIA.
+
+    _ TERRA NIGRITARVM.
+
+    _ OF AETHIOPIA SVPERIOR.
+
+    _ OF AETHIOPIA INFERIOR.
+
+    _ OF EGYPT.
+
+    _ THE AFRICAN ILES.
+
+1. OF AMERICA.
+
+    _ OF MEXICANA.
+
+    _ OF PERVANA.
+
+    _ THE AMERICAN ILANDS.
+
+1. OF THE VNKNOWNE PARTS OF THE WORLD.
 
 #####Back#####
-Mikrokosmos A little description of the great world. Augmented and reuised. By Peter Heylyn.Heylyn, 
+
+1. Let my negligence in omitting the correction of this passage, be excused: and mended thus, in pag. 148.
+
 **Types of content**
 
   * There are 723 **verse** lines!
